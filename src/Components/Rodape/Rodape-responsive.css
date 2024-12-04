@@ -1,0 +1,35 @@
+@media (max-width: 600px) {
+    .rodape {
+        margin: 0;
+        background-color: #e7e7e7;
+        padding: 2rem;
+    }
+
+    .rodape a {
+        color: #000;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .rodape {
+        margin: 0;
+        background-color: #e7e7e7;
+        padding: 2rem;
+    }
+    
+    .rodape a {
+        color: #000;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .rodape {
+        margin: 0;
+        background-color: #e7e7e7;
+        padding: 2rem;
+    }
+    
+    .rodape a {
+        color: #000;
+    } 
+}

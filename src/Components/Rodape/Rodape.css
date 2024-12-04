@@ -1,0 +1,17 @@
+.rodape {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.rodape a {
+    text-decoration: none;
+    color: #fff;
+    font-family: var(--maven-pro);
+    font-size: 1rem;
+    font-weight: 600;
+    transition: .5s;
+}
+
+.rodape a:hover {
+    color: red;
+}
