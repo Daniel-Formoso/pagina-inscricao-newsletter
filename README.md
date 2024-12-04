@@ -11,3 +11,14 @@ Este projeto foi desenvolvido com React, utilizando JavaScript (ES6+) para a ló
 - CSS
 - Bootstrap Icons
 - React Router
+
+## Acessar projeto!
+- [Deploy](https://projeto-newsletter.netlify.app/)
+
+## Quer ver outros projetos? Acesse o meu Portfólio ou meu GitHub!
+- [Portfólio](https://meu-site-murex-chi.vercel.app/)
+- [GitHub](https://github.com/Daniel-Formoso)  
+
+## Contatos:
+- E-mail: daniel.formoso100@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/danielformoso/)
