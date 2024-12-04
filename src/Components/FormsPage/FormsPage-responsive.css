@@ -23,14 +23,9 @@
     width: 100vw;
   }
 
-  .conteudo {
-    padding: 0 10px;
-  }
-
   .texto {
-    /* border: 1px solid red; */
+    padding: 0 20px;
     margin-top: 10px;
-    /* border: 1px solid red; */
   }
 
   .conteudo .texto h2 {
@@ -46,6 +41,7 @@
   }
 
   .lista ul {
+    padding: 0 20px;
     /* border: 1px solid red; */
     /* padding: 0 10px; */
     font-size: 1rem;
@@ -54,6 +50,19 @@
 
   .lista ul li {
     padding: 5px 0;
+  }
+
+  form label {
+    padding: 10px 20px;
+  }
+
+  form input {
+    margin:  0 20px;
+  }
+
+  form button {
+    max-width: 90%;
+    margin: 30px 20px;
   }
 }
 
@@ -72,7 +81,12 @@
   }
 
   .texto {
+    padding: 0 20px;
     margin-top: 30px;
+  }
+
+  .lista ul {
+    padding: 0 20px;
   }
 
   .imagem img {
@@ -85,6 +99,19 @@
     border-radius: 0;
     width: 100vw;
     max-height: 100%;
+  }
+
+  form label {
+    padding: 10px 20px;
+  }
+
+  form input {
+    margin:  0 20px;
+  }
+
+  form button {
+    max-width: 90%;
+    margin: 30px 20px;
   }
 }
 
